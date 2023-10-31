@@ -9,5 +9,7 @@ namespace ejercicio4Bucles.Servicios
     internal interface solicitudNumeroInterfaz
     {
         public int numeroInt();
+
+
     }
 }
