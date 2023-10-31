@@ -1,0 +1,14 @@
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio4Bucles\bin\Debug\net6.0\ejercicio4Bucles.exe
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio4Bucles\bin\Debug\net6.0\ejercicio4Bucles.deps.json
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio4Bucles\bin\Debug\net6.0\ejercicio4Bucles.runtimeconfig.json
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio4Bucles\bin\Debug\net6.0\ejercicio4Bucles.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio4Bucles\bin\Debug\net6.0\ejercicio4Bucles.pdb
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio4Bucles\obj\Debug\net6.0\ejercicio4Bucles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio4Bucles\obj\Debug\net6.0\ejercicio4Bucles.AssemblyInfoInputs.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio4Bucles\obj\Debug\net6.0\ejercicio4Bucles.AssemblyInfo.cs
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio4Bucles\obj\Debug\net6.0\ejercicio4Bucles.csproj.CoreCompileInputs.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio4Bucles\obj\Debug\net6.0\ejercicio4Bucles.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio4Bucles\obj\Debug\net6.0\refint\ejercicio4Bucles.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio4Bucles\obj\Debug\net6.0\ejercicio4Bucles.pdb
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio4Bucles\obj\Debug\net6.0\ejercicio4Bucles.genruntimeconfig.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\ejercicio4Bucles\obj\Debug\net6.0\ref\ejercicio4Bucles.dll
